@@ -2,5 +2,5 @@
 
 Projeto sem fins lucrativos
 
-https://superlative-choux-139ba8.netlify.app
+https://whimsical-dieffenbachia-b5b57c.netlify.app
 
