@@ -2,5 +2,5 @@
 
 Projeto sem fins lucrativos
 
-https://whimsical-dieffenbachia-b5b57c.netlify.app
+https://gleaming-bavarois-b80702.netlify.app/
 
